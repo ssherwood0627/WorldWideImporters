@@ -1,0 +1,13 @@
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\bin\Release\netcoreapp3.1\WorldWideImporters.DAL.deps.json
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\bin\Release\netcoreapp3.1\WorldWideImporters.DAL.runtimeconfig.json
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\bin\Release\netcoreapp3.1\WorldWideImporters.DAL.runtimeconfig.dev.json
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\bin\Release\netcoreapp3.1\WorldWideImporters.DAL.dll
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\bin\Release\netcoreapp3.1\WorldWideImporters.DAL.pdb
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\WorldWideImporters.DAL.AssemblyInfoInputs.cache
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\WorldWideImporters.DAL.AssemblyInfo.cs
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\WorldWideImporters.DAL.dll
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\WorldWideImporters.DAL.pdb
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\WorldWideImporters.DAL.genruntimeconfig.cache
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\WorldWideImporters.DAL.csprojAssemblyReference.cache
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\WorldWideImporters.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ssherwood\source\repos\WorldWideImporters\WorldWideImporters.DAL\obj\Release\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
